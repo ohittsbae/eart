@@ -1,0 +1,162 @@
+[
+  {
+    "name": "canada",
+    "cost": 2000,
+    "area": "north america",
+    "id": 1
+  },
+  
+  {
+    "name": "usa",
+    "cost": 3000,
+    "area": "north america",
+    "id": 2
+  },
+  
+  {
+    "name": "mexico",
+    "cost": 1000,
+    "area": "north america",
+    "id": 3
+  },
+  
+  {
+    "name": "brazil",
+    "cost": 5000,
+    "area": "south america",
+    "id": 4
+  },
+  
+  {
+    "name": "peru",
+    "cost": 1000,
+    "area": "south america",
+    "id": 5
+  },
+  
+  {
+    "name": "uk",
+    "cost": 5000,
+    "area": "europe",
+    "id": 6
+  },
+  
+  {
+    "name": "germany",
+    "cost": 3000,
+    "area": "europe",
+    "id": 7
+  },
+  
+  {
+    "name": "italy",
+    "cost": 3000,
+    "area": "europe",
+    "id": 8
+  },
+  
+  {
+    "name": "china",
+    "cost": 10000,
+    "area": "asia",
+    "id": 9
+  },
+  
+  {
+    "name": "japan",
+    "cost": 3000,
+    "area": "asia",
+    "id": 10
+  },
+  
+  {
+    "name": "russia",
+    "cost": 20000,
+    "area": "asia",
+    "id": 11
+  },
+  
+  {
+    "name": "india",
+    "cost": 15000,
+    "area": "asia",
+    "id": 12
+  },
+  
+  {
+    "name": "niger",
+    "cost": 1000,
+    "area": "africa",
+    "id": 13
+  },
+  
+  {
+    "name": "nigeria",
+    "cost": 3000,
+    "area": "africa",
+    "id": 14
+  },
+  
+  {
+    "name": "south africa",
+    "cost": 4000,
+    "area": "africa",
+    "id": 15
+  },
+  
+  {
+    "name": "australia",
+    "cost": 15000,
+    "area": "oceania",
+    "id": 16
+  },
+  
+  {
+    "name": "new zealand",
+    "cost": 1000,
+    "area": "oceania",
+    "id": 17
+  },
+  
+  {
+    "name": "antarctica",
+    "cost": 20000,
+    "area": "antarctica",
+    "id": 18
+  },
+  
+  {
+    "name": "haiti",
+    "cost": 500,
+    "area": "caribbean",
+    "id": 19
+  },
+  
+  {
+    "name": "jamaica",
+    "cost": 500,
+    "area": "caribbean",
+    "id": 20
+  },
+  
+  {
+    "name": "puerto rico",
+    "cost": 300,
+    "area": "caribbean",
+    "id": 21
+  },
+  
+  {
+    "name": "cuba",
+    "cost": 1000,
+    "area": "caribbean",
+    "id": 22
+  },
+  
+  {
+    "name": "unclaimed territory",
+    "cost": 25000,
+    "area": "all",
+    "id": "23 - 30"
+  }
+]

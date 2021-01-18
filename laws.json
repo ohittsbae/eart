@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "spam",
+    "desc": "under no circumstances will the action of spam be tolerated. the sentence for such a crime can go from a mute to a temp ban."
+  },
+  
+  {
+    "id": 2,
+    "name": "nsfw",
+    "desc": "the posting of nsfw content in this server will never be acceptable. the sentence for this crime is a temp ban."
+  },
+  
+  {
+    "id": 3,
+    "name": "furries",
+    "desc": "it will never be socially acceptable to say ``uwu``, ``owo``, or any mixture of the two. the sentence for this crime is social slandering as well as a mute."
+  },
+  
+  {
+    "id": 4,
+    "name": "profanity",
+    "desc": "profanity is indeed allowed on this server, but keep it in moderation. if you misuse this right, you may be sentenced to a mute."
+  },
+  
+  {
+    "id": 5,
+    "name": "admin",
+    "desc": "do not ask for admin. if we believe you to be admin material, we will add you. no sentence for this, it's just common courtesy."
+  },
+  
+  {
+    "id": 6,
+    "name": "jokes",
+    "desc": "edgy jokes are allowed, but when you bring stuff like hitler into the mix, you invoke the punishment of a mute."
+  },
+  
+  {
+    "id": 7,
+    "name": "roleplay",
+    "desc": "roleplay of any kind will not be tolerated (eg: dating, marriage, furry bs, etc.). the maximum sentence for this behaviour is a temp ban"
+  }
+]
