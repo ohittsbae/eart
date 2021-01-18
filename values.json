@@ -1,0 +1,227 @@
+[
+  {
+    "name": "canada",
+    "cost": 2000,
+    "area": "north america",
+    "id": 695324214114123786
+  },
+  
+  {
+    "name": "usa",
+    "cost": 3000,
+    "area": "north america",
+    "id": 695324254656528424
+  },
+  
+  {
+    "name": "mexico",
+    "cost": 1000,
+    "area": "north america",
+    "id": 695324372143177728
+  },
+  
+  {
+    "name": "brazil",
+    "cost": 5000,
+    "area": "south america",
+    "id": 695324503676289165
+  },
+  
+  {
+    "name": "peru",
+    "cost": 1000,
+    "area": "south america",
+    "id": 695324618042638377
+  },
+  
+  {
+    "name": "uk",
+    "cost": 5000,
+    "area": "europe",
+    "id": 695325988971872266
+  },
+  
+  {
+    "name": "germany",
+    "cost": 3000,
+    "area": "europe",
+    "id": 695326031493595257
+  },
+  
+  {
+    "name": "italy",
+    "cost": 3000,
+    "area": "europe",
+    "id": 695326216886157322
+  },
+  
+  {
+    "name": "china",
+    "cost": 10000,
+    "area": "asia",
+    "id": 695327390255022191
+  },
+  
+  {
+    "name": "japan",
+    "cost": 3000,
+    "area": "asia",
+    "id": 695327414678716517
+  },
+  
+  {
+    "name": "russia",
+    "cost": 20000,
+    "area": "asia",
+    "id": 695327444776779898
+  },
+  
+  {
+    "name": "india",
+    "cost": 15000,
+    "area": "asia",
+    "id": 695327906112733346
+  },
+  
+  {
+    "name": "niger",
+    "cost": 1000,
+    "area": "africa",
+    "id": 695328825516752996
+  },
+  
+  {
+    "name": "nigeria",
+    "cost": 3000,
+    "area": "africa",
+    "id": 695328847708684348
+  },
+  
+  {
+    "name": "south africa",
+    "cost": 4000,
+    "area": "africa",
+    "id": 695328883763052585
+  },
+  
+  {
+    "name": "australia",
+    "cost": 15000,
+    "area": "oceania",
+    "id": 695329202798592022
+  },
+  
+  {
+    "name": "new zealand",
+    "cost": 1000,
+    "area": "oceania",
+    "id": 695329567245729902
+  },
+  
+  {
+    "name": "antarctica",
+    "cost": 20000,
+    "area": "antarctica",
+    "id": 695329899963088926
+  },
+  
+  {
+    "name": "haiti",
+    "cost": 500,
+    "area": "caribbean",
+    "id": 695325465497305268
+  },
+  
+  {
+    "name": "jamaica",
+    "cost": 500,
+    "area": "caribbean",
+    "id": 695325560259215480
+  },
+  
+  {
+    "name": "puerto rico",
+    "cost": 300,
+    "area": "caribbean",
+    "id": 695325614332444763
+  },
+  
+  {
+    "name": "cuba",
+    "cost": 1000,
+    "area": "caribbean",
+    "id": 695326302353358848
+  },
+  
+  {
+    "name": "unclaimed territory",
+    "cost": 1000,
+    "area": "caribbean",
+    "id": 695330408711323678
+  },
+  
+  {
+    "name": "unclaimed territory",
+    "cost": 1000,
+    "area": "antarctica",
+    "id": 695330340104962179
+  },
+  
+  {
+    "name": "unclaimed territory",
+    "cost": 1000,
+    "area": "oceania",
+    "id": 695342810492305428
+  },
+  
+  {
+    "name": "unclaimed territory",
+    "cost": 1000,
+    "area": "africa",
+    "id": 695328950020341780
+  },
+  
+  {
+    "name": "unclaimed territory",
+    "cost": 1000,
+    "area": "asia",
+    "id": 695327859568541758
+  },
+  
+  {
+    "name": "unclaimed territory",
+    "cost": 1000,
+    "area": "europe",
+    "id": 695327830426255429
+  },
+  
+  {
+    "name": "unclaimed territory",
+    "cost": 1000,
+    "area": "south america",
+    "id": 695325899238670396
+  },
+  
+  {
+    "name": "unclaimed territory",
+    "cost": 1000,
+    "area": "north america",
+    "id": 695324409979994233
+  },
+  
+  {
+    "name": "sweden",
+    "cost": 2000,
+    "area": "europe",
+    "id": 699117688487804939
+  },
+  
+  {
+    "name": "ireland",
+    "cost": 1000,
+    "area": "europe",
+    "id": 699285162797695026
+  }
+  
+  
+]
